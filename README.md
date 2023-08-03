@@ -75,7 +75,7 @@ This is used in conjunction with BT-SIG approved DTM test equipment. Communicati
 [Lyra24 S series datasheet]: <https://www.lairdconnect.com/documentation/datasheet-lyra-24s>
 [Lyra24 AT Interface guide]: <https://www.lairdconnect.com/documentation/user-guide-lyra24-at-interface>
 [Lyra24 USB User guide]: <https://www.lairdconnect.com/documentation/user-guide-lyra-24-usb>
-[Lyra24 AT Interface release notes]: <https://www.lairdconnect.com/documentation/release-notes-lyra-24-series>
+[Lyra24 AT Interface release notes]: <https://www.lairdconnect.com/documentation/release-notes-lyra24-p-s-v5-1-x>
 [Lyra24 series DVK user guide]: <https://www.lairdconnect.com/documentation/user-guide-lyra24p-development-kit>
 [Lyra24 P BGAPI DTM Application Note]: <https://www.lairdconnect.com/documentation/application-note-lyra24p-bgapi-direct-test-mode>
 [Lyra24 Releases Page]: <https://github.com/LairdCP/Lyra_24_Firmware/releases/tag/GA1.1>
