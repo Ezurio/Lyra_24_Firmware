@@ -84,5 +84,5 @@ This is used in conjunction with BT-SIG approved DTM test equipment. Communicati
 [Firmware options and upgrade guide]: <https://www.lairdconnect.com/documentation/user-guide-firmware-options-and-upgrading-lyra-series>
 [Native C development guide]: <https://www.lairdconnect.com/documentation/user-guide-lyra-series-c-code-development>
 [Bluetooth SIG Core Specification]: <https://www.bluetooth.com/specifications/bluetooth-core-specification>
-[Lyra Product Landing Page]: <https://www.lairdconnect.com/wireless-modules/bluetooth-modules/bluetooth-5-modules/lyra-24-series-bluetooth-5-modules>
+[Lyra Product Landing Page]: <https://www.lairdconnect.com/wireless-modules/bluetooth-modules/bluetooth-5-modules/lyra-series-bluetooth-53-modules>
 [Bluetooth Xpress]: <https://docs.silabs.com/gecko-os/1/bgx/latest/getting-started>
