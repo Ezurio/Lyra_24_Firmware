@@ -1,4 +1,4 @@
-[![Laird Connectivity](/images/ezurio_logo.jpg)](https://www.ezurio.com/)
+[![Ezurio](/images/ezurio_logo.jpg)](https://www.ezurio.com/)
 
 # Lyra24 Firmware
 
@@ -7,7 +7,7 @@
 [![Gecko SDK](/images/gecko_sdk_logo.jpg)](https://www.silabs.com/developers/gecko-software-development-kit)
 [![Simplicity Studio](/images/simplicity_studio_logo.jpg)](https://www.silabs.com/developers/simplicity-studio)
 
-This is the firmware release page for the Laird Connectivity [Lyra24][Lyra24 series product brief] product family.
+This is the firmware release page for the Ezurio [Lyra24][Lyra24 series product brief] product family.
 
 The Lyra24 product is available in the following different variants:
 1. [P10 (PCB module, 10dBm output power)][Lyra24 P series datasheet],
@@ -29,7 +29,7 @@ All firmware is offered in P10, S10, P20 and P20RF versions, depending upon the 
 
 ## AT Interface
 
-The [Lyra24 AT Interface][Lyra24 AT Interface guide] application builds upon many years of AT Interface experience gained with Laird Connectivity's BL65x range of Bluetooth modules. It offers a VSP service for cable replacement applications and GATT client and server functionality. Lyra24 is compatible with the previous Lyra series (and vice-versa) if both of them are running the latest AT Interface app. Please find [here][Lyra24 AT Interface release notes] the latest release notes.
+The [Lyra24 AT Interface][Lyra24 AT Interface guide] application builds upon many years of AT Interface experience gained with Ezurio's BL65x range of Bluetooth modules. It offers a VSP service for cable replacement applications and GATT client and server functionality. Lyra24 is compatible with the previous Lyra series (and vice-versa) if both of them are running the latest AT Interface app. Please find [here][Lyra24 AT Interface release notes] the latest release notes.
 
 Binaries are available for transfer using SWD and OTA and UART bootloader.
 
@@ -52,9 +52,9 @@ Further details of usage of the bootloader can be found in the [Firmware options
 
 |   Bootloader Type  | Lyra24 P10 BOOT Pin | Lyra24 S10 BOOT Pin | Lyra24 P20 BOOT Pin | Lyra24 PRF BOOT Pin |
 |--------------------|---------------------|---------------------|---------------------|---------------------|
-| Laird Connectivity |        PC07         |        PC07         |        PC07         |        PC07         |
+| Ezurio |        PC07         |        PC07         |        PC07         |        PC07         |
 
-Binaries are available for transfer using SWD only. Please note that by default all Lyra24 modules ship with the Laird Connectivity bootloader type preprogrammed.
+Binaries are available for transfer using SWD only. Please note that by default all Lyra24 modules ship with the Ezurio bootloader type preprogrammed.
 
 ## DTM
 
@@ -76,9 +76,9 @@ This is used in conjunction with BT-SIG approved DTM test equipment. Communicati
 [Lyra24 AT Interface guide]: <https://www.ezurio.com/documentation/user-guide-at-interface-application-lyra-22-24-series>
 [Lyra24 USB User guide]: <https://www.ezurio.com/documentation/user-guide-lyra-24-usb>
 [Lyra24 AT Interface release notes]: <https://www.ezurio.com/documentation/release-notes-lyra-24-p-s-v7-2-x>
-[Lyra24 series DVK user guide]: <https://www.ezurio.com/documentation/user-guide-lyra24p-development-kit>
+[Lyra24 series DVK user guide]: <https://www.ezurio.com/documentation/user-guide-lyra-24p-development-kit>
 [Lyra24 P BGAPI DTM Application Note]: <https://www.ezurio.com/documentation/application-note-lyra24p-bgapi-direct-test-mode>
-[Lyra24 Releases Page]: <https://github.com/LairdCP/Lyra_24_Firmware/releases/tag/GA2.0>
+[Lyra24 Releases Page]: <https://github.com/Ezurio/Lyra_24_Firmware/releases/tag/GA2.0>
 [Silabs BGAPI DTM documentation]: <https://www.silabs.com/documents/public/application-notes/an1267-bt-rf-phy-evaluation-using-dtm-sdk-v3x.pdf>
 [Silabs BGAPI description]: <https://docs.silabs.com/bluetooth/3.1/bgapi>
 [Firmware options and upgrade guide]: <https://www.ezurio.com/documentation/user-guide-firmware-options-and-upgrading-lyra-series>
