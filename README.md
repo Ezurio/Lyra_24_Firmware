@@ -78,7 +78,7 @@ This is used in conjunction with BT-SIG approved DTM test equipment. Communicati
 [Lyra24 AT Interface release notes]: <https://www.ezurio.com/documentation/release-notes-lyra-24-p-s-v7-2-x>
 [Lyra24 series DVK user guide]: <https://www.ezurio.com/documentation/user-guide-lyra-24p-development-kit>
 [Lyra24 P BGAPI DTM Application Note]: <https://www.ezurio.com/documentation/application-note-lyra24p-bgapi-direct-test-mode>
-[Lyra24 Releases Page]: <https://github.com/Ezurio/Lyra_24_Firmware/releases/tag/GA2.1>
+[Lyra24 Releases Page]: <https://github.com/Ezurio/Lyra_24_Firmware/releases/tag/GA2.2>
 [Silabs BGAPI DTM documentation]: <https://www.silabs.com/documents/public/application-notes/an1267-bt-rf-phy-evaluation-using-dtm-sdk-v3x.pdf>
 [Silabs BGAPI description]: <https://docs.silabs.com/bluetooth/3.1/bgapi>
 [Firmware options and upgrade guide]: <https://www.ezurio.com/documentation/user-guide-firmware-options-and-upgrading-lyra-series>
